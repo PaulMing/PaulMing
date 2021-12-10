@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @PaulMing @xiaomi
-- 👀 I’m interested in sentry
-- 🌱 I’m currently learning sentry
-- 💞️ Front end development engineer
-- 📫 tuohaislashboy@163.com
+
